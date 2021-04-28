@@ -1,4 +1,4 @@
-# README -- by Chih-Hsiang Chen, 15 Mar
+# README -- by Chih-Hsiang Chen, 15 Mar. 2021
 
 The "test.sh" is the shell script document written for operating Makefile in both riscv-firmware and riscv-cartridge files automatically.
 
